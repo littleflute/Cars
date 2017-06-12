@@ -1,0 +1,12 @@
+var f = [];				
+f[0]	= "v0.0.8";			
+f[1]	= "01 Hello Again.mp3";		
+f[2]	= "02 Looking for Love.mp3";		
+f[3]	= "03 Magic.mp3";		
+f[4]	= "04 Drive.mp3";		
+f[5]	= "05 Stranger Eyes.mp3";		
+f[6]	= "06 You Might Think.mp3";		
+f[7]	= "07 It's Not the Night.mp3";		
+f[8]	= "08 Why Can't I Have You.mp3";		
+f[9]	= "09 I Refuse.mp3";		
+f[10]	= "10 Heartbeat City.mp3";		
